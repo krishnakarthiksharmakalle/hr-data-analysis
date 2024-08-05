@@ -1,12 +1,11 @@
-In this project, we will understand all the problems acquire data from hr and work on it
+In this project, we will understand all the problems acquiring data from hr and work on it
 Here's a detailed format for presenting your end-to-end data analytics project on GitHub, structured to be engaging and interactive:
 
 ---
 
-AtliQ Technologies Employee Presence Analysis
 
  Project Overview
-This end-to-end data analytics project involves analyzing a real dataset for employee presence from AtliQ Technologies. The objective is to derive insights and create an interactive Power BI dashboard for the HR department to monitor and improve employee attendance and performance.
+This end-to-end data analytics project involves analyzing a real dataset for employee presence from Atliq Technologies. The objective is to derive insights and create an interactive Power BI dashboard for the HR department to monitor and improve employee attendance and performance.
 
 Table of Contents
 - [Introduction](#introduction)
@@ -75,7 +74,7 @@ An interactive Power BI dashboard was created to visualize the insights from the
 
 ## Conclusions
 - The analysis provided valuable insights into employee attendance patterns.
-- The Power BI dashboard enables HR to monitor attendance and identify issues proactively.
+- The Power BI dashboard enables HR to proactively monitor attendance and identify issues.
 - Recommendations were made to improve attendance rates and address specific departmental issues.
 
 ## Future Work
@@ -90,10 +89,3 @@ An interactive Power BI dashboard was created to visualize the insights from the
 4. **Run Analysis**: Follow the steps in the notebook for data cleaning and analysis.
 5. **View Dashboard**: Open the Power BI file to explore the dashboard.
 
-## Acknowledgements
-- **AtliQ Technologies**: For providing the dataset and HR requirements.
-- **Power BI Community**: For resources and tutorials.
-
----
-
-By following this format, you create a comprehensive, clear, and engaging presentation of your project that will be impressive to recruiters and anyone reviewing your GitHub repository.
